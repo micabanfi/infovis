@@ -6,7 +6,8 @@ En esta seccion encontraran los graficos de los data sets subidos todas las sema
 
 # Tareas
 En esta seccion iran las tareas semanales
- ## Analisis del Paper "A Tour Through the Visualization Zoo"
+
+## Analisis del Paper "A Tour Through the Visualization Zoo"
 [ ](https://docs.google.com/document/d/1khE7HYmzx5g4vjvQGPjDhpfGqNWfO77kUUAh4l85BMo/edit?usp=sharing)
 
 # Cosas Utiles
