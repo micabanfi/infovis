@@ -3,3 +3,14 @@ title: InfoVis ITBA
 description: Bienvenidos! Aca podran encontrar los trabajos de la materia
 author: Micaela Banfi
 title-img: "https://github.com/micabanfi/infovis/blob/gh-pages/img/me.jpg"
+
+navbar-col: "#000000"
+navbar-text-col: "#000000"
+navbar-border-col: "#000000"
+page-col: "#000000"
+text-col: "#000000"
+link-col: "#000000"
+hover-col: "#000000"
+footer-col: "#000000"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
