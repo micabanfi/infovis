@@ -9,6 +9,7 @@ Week 9 - 2021 [Link a Tableau](https://public.tableau.com/views/WomeninParlament
 En esta seccion iran las tareas semanales
 
 [Analisis del Paper "A Tour Through the Visualization Zoo"](https://docs.google.com/document/d/1khE7HYmzx5g4vjvQGPjDhpfGqNWfO77kUUAh4l85BMo/edit?usp=sharing)
+
 [Palabras Resaltadas del Paper](https://micabanfi.github.io/infovis/docs/palabras.txt)
 
 # Cosas Utiles
