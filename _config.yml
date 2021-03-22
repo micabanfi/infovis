@@ -1,5 +1,12 @@
 theme: jekyll-theme-minimal
-# title: InfoVis ITBA
-# description: Bienvenidos! Aca podran encontrar los trabajos de la materia
-# author: Micaela Banfi
+minimal_mistakes_skin : "mint"
+
+locale                   : "en-US"
+title                    : "InfoVis"
+title_separator          : "-"
+subtitle                 : "ITBA"
+name                     : "Micaela Banfi"
+description              : "Bienvenidos! Aca podran encontrar los trabajos de la materia"
+
+
 
