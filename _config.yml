@@ -1,12 +1,15 @@
 theme: jekyll-theme-minimal
 minimal_mistakes_skin : "mint"
 
+# Site Settings
 locale                   : "en-US"
 title                    : "InfoVis"
 title_separator          : "-"
 subtitle                 : "ITBA"
-name                     : "Micaela Banfi"
+name                     : "InfoVis ITBA"
 description              : "Bienvenidos! Aca podran encontrar los trabajos de la materia"
+url: "https://micabanfi.github.io/infovis/"
+
 
 
 
