@@ -30,8 +30,9 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
-# minimal_mistakes_skin : "mint"
+# theme: minima
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin : "aqua"
 plugins:
   - jekyll -feed
   # - jekyll-include-cache
