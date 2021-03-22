@@ -4,7 +4,6 @@ plugins:
   - jekyll-include-cache
   
 # Site Settings
-site:
 locale                   : "en-US"
 title                    : "Info Vis"
 title_separator          : "-"
