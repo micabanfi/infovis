@@ -9,7 +9,7 @@ title                    : "Info Vis"
 title_separator          : "-"
 subtitle                 : "ITBA"
 name                     : "Micaela Banfi"
-site.description              : "Bienvenidos! Aca podran encontrar los trabajos de la materia"
+site.description         : "Bienvenidos! Aca podran encontrar los trabajos de la materia"
 url: "https://micabanfi.github.io/infovis/"
 
 # Site Author
@@ -26,49 +26,11 @@ author:
 
 
 # Site Footer
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/micabanfi"
-
-# Reading Files
-include:
-  - .htaccess
-  - _pages
-exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - vendor
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
-  - CHANGELOG
-  - config
-  - Gemfile
-  - Gruntfile.js
-  - gulpfile.js
-  - LICENSE
-  - log
-  - node_modules
-  - package.json
-  - package-lock.json
-  - Rakefile
-  - README
-  - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
-keep_files:
-  - .git
-  - .svn
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
+# footer:
+#   links:
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/micabanfi"
 
 
 
