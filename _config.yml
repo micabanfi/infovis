@@ -9,6 +9,7 @@ title                    : "Info Vis"
 title_separator          : "-"
 subtitle                 : "ITBA"
 name                     : "Micaela Banfi"
+masthead_title: "My Custom Title"
 site.description         : "Bienvenidos! Aca podran encontrar los trabajos de la materia"
 url: "https://micabanfi.github.io/infovis/"
 
