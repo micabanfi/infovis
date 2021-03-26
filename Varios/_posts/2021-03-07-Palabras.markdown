@@ -5,4 +5,13 @@ date:   2021-03-07 19:23:05 -0300
 category: Varios
 ---
  
-Hola
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Palabras Paper</title>
+</head>
+<body>
+  <iframe src="https://micabanfi.github.io/infovis/docs/palabras.txt" width = '1000' height = '800'></iframe>
+</body>
+</html>
