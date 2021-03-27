@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Preview Idea"
+title:  "Preview Idea Datos Personales"
 date:   2021-03-26 19:23:05 -0300
 category: TPDP
 ---
