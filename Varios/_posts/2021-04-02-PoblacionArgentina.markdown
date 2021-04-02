@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ideas Poblacion Argentina"
-date: 2021-04-02 19:23:05 -0300
+date: 2021-04-02 19:03:05 -0300
 category: Varios
 ---
 
@@ -12,6 +12,6 @@ category: Varios
   <title>Ideas Poblacion Argentina</title>
 </head>
 <body>
-  <img src="https://micabanfi.github.io/infovis/docs/poblacionIdeas.pdf" width = "100%" height = '100%'/>
+  <iframe src="https://micabanfi.github.io/infovis/docs/poblacionIdeas.pdf" width = "100%" height = '2500px'/>
 </body>
 </html>
